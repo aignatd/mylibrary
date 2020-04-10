@@ -5,6 +5,6 @@ public class Credentials {
 
 	public static String getToken()
 	{
-		return "Library berhasil";
+		return "Library development berhasil";
 	}
 }
